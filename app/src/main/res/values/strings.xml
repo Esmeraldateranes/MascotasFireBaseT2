@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mascotas Firebase</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="pet_name">Nombre de la mascota</string>
+    <string name="pet_description">Descripción</string>
+    <string name="pet_age">Edad</string>
+    <string name="pet_image_url">URL de la imagen</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="update">Actualizar</string>
+    <string name="add_pet">Agregar Mascota</string>
+</resources>
